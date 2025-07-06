@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 📊 Sales Performance Dashboard – Power BI
 
 An interactive dashboard analyzing sales data from a global retail superstore using Power BI.
